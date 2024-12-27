@@ -17,7 +17,7 @@ Credit @Jessica Jones Questions direct to her on discord.
 
 - This challenge required an exhaustive search for border crossing names that matched the flag format, followed by validation using Google Earth.
 - A clue in the image revealed the words "exchange," "insurance," and "spedition." While the first two words are English, "spedition" originates from German (according to research conducted via ChatGPT).
-- This led to an investigation of border crossings in European countries, ultimately culminating in the discovery of this [document](https://www.asmap.ru/upload/Closed%20borders%20Serbia%2013.03.20.pdf).
+- This led to an investigation of border crossings in European countries (as I couldn’t find the solution in Germany, Austria, or Switzerland), ultimately culminating in the discovery of this [document](https://www.asmap.ru/upload/Closed%20borders%20Serbia%2013.03.20.pdf).
 - The document provides information on closed border crossings between Serbia and neighboring countries. At the very beginning of the document, the answer to this challenge can be found: the **Horgoš 2** border crossing between Serbia and Hungary.
 - The image below, obtained via Google Earth, validates this identification due to the structural similarities with the provided photo.
 
