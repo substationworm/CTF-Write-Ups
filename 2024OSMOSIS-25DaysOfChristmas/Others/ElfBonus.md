@@ -4,4 +4,4 @@
 - Organized by: [OSMOSIS Association](https://osmosisinstitute.org/).
 - 🤷‍♂️ Points: 275.
 
-<img src="dino.png" width="800">
+<p align="center"><img src="dino.png" width="800"></p>

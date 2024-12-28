@@ -11,7 +11,7 @@
 
 Credit @Jessica Jones Questions direct to her on discord.
 
-<img src="thumbnail_IMG_0898.jpg" width="800">
+<p align="center"><img src="thumbnail_IMG_0898.jpg" width="800"></p>
 
 ## ✍🏻 Write-Up
 
@@ -21,7 +21,7 @@ Credit @Jessica Jones Questions direct to her on discord.
 - The document provides information on closed border crossings between Serbia and neighboring countries. At the very beginning of the document, the answer to this challenge can be found: the **Horgoš 2** border crossing between Serbia and Hungary.
 - The image below, obtained via Google Earth, validates this identification due to the structural similarities with the provided photo.
 
-<img src="Fig01.png" width="800">
+<p align="center"><img src="Fig01.png" width="800"></p>
 
 ## 🔎 Supporting Evidence
 

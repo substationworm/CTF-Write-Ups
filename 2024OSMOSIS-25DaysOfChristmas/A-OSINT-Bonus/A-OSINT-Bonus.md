@@ -11,7 +11,7 @@ One attempt only.
 
 `FLAG{9999}`
 
-<img src="The_Tank.jpg" width="800">
+<p align="center"><img src="The_Tank.jpg" width="800"></p>
 
 ## ✍🏻 Write-Up
 

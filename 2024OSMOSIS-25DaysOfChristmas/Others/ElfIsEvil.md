@@ -6,4 +6,4 @@
 
 `FLAG{Xxxxxxxx}`
 
-<img src="elfie.png" width="800">
+<p align="center"><img src="elfie.png" width="800"></p>
