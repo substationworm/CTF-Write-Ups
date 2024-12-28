@@ -1,6 +1,6 @@
 # 🎅 25 Days of Christmas Capture the Flag
 
-<img src="Intro.jpg" width="600">
+<p align="center"><img src="Intro.jpg" width="600"></p>
 
 This repository contains my write-ups for the challenges proposed during the 25 Days of Christmas Capture the Flag (CTF) organized by the [OSMOSIS Association](https://osmosisinstitute.org/) in December 2024. This CTF brought together 352 registered competitors and tested skills in open-source intelligence (OSINT), digital forensics, geolocation, and reconnaissance.
 
@@ -51,7 +51,7 @@ This repository also contains additional files, such as images used during the c
 
 ## 🏆 Top Three Winners
 
-<img src="Top3Winners.jpg" width="600">
+<p align="center"><img src="Top3Winners.jpg" width="600"></p>
 
 ---
 
